@@ -1,0 +1,20 @@
+img{
+width: 30%;
+margin: 1%;
+margin-left: 1.66%;
+height: 750px;
+
+}
+
+h1{
+    color: white;
+    font-family: 'Noto Sans JP', sans-serif;
+    margin-left: 800px;
+    position: relative;
+    font-weight: auto;
+}
+
+
+body{
+    background-color: black;
+}
